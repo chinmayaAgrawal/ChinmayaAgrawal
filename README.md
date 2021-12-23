@@ -1,8 +1,9 @@
-# Hi there I'm Chinmaya 👋
+# Hello, geeks! 👋
 
 
 <img src="https://raw.githubusercontent.com/ChinmayaAgrawal/chinmayaAgrawal/main/Screenshot (1070).png" alt="banner that says Chinmaya Agrawal - software developer, web developer and competitive programmer">
-I'm pre-final year computer science undergraduate who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+
+I'm *Chinmaya Agrawal* . I'm pre-final year computer science undergraduate who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
 
   ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="175" height="150" src="https://github.com/ChinmayaAgrawal/ChinmayaAgrawal/blob/main/github(3).gif?raw=true"></a>
